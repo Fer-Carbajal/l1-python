@@ -79,8 +79,8 @@ afficheDate(tempsEnDate(temps))
 afficheDate()
 
 import time
-print (time.time()
-print(time.gmtime(time.time())))
+print (time.time())
+print(time.gmtime(time.time()))
 
 
 
